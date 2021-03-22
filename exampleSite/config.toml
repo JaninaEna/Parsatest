@@ -22,10 +22,6 @@ url = "homepage/home-2"
 name = "About"
 url = "about"
 weight = 2
-[[menu.main]]
-name = "Contact"
-url = "contact"
-weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
