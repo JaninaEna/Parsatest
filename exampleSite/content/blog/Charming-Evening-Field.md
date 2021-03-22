@@ -2,9 +2,10 @@
 title: The dress
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
-type: post
+type: featured
 image: "/images/standesamt3.jpg"
-categories: []
+categories:
+- ''
 tags: []
 
 ---
