@@ -5,9 +5,7 @@ description: This is meta description
 type: post
 image: "/images/standesamt3.jpg"
 categories: []
-tags:
-- Photos
-- Food
+tags: []
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
