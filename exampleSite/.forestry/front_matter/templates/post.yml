@@ -24,4 +24,5 @@ fields:
   name: type
   label: type
 pages:
+- exampleSite/content/blog/painted-silk.md
 - exampleSite/content/blog/welt-pockets.md
