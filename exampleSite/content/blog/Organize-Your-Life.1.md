@@ -3,7 +3,7 @@ title: Neat seam finishes
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/cielo1.jpg"
+image: "/images/img_20210321_223230_426.jpg"
 categories: []
 tags: []
 
