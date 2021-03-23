@@ -1,9 +1,9 @@
 ---
-title: About
+title: Coco jacket
 date: 2019-05-14T14:46:10.000+06:00
 description: This is meta description
 type: featured
-image: "/images/originalgrosse-stich-stich-slip.png"
+image: "/images/img_20200515_094551_341.jpg"
 categories: []
 tags: []
 menu:
