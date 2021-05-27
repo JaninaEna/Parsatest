@@ -25,5 +25,6 @@ fields:
   label: type
 pages:
 - exampleSite/content/blog/fanny-pack.md
+- exampleSite/content/blog/mother-of-the-bride.md
 - exampleSite/content/blog/painted-silk.md
 - exampleSite/content/blog/welt-pockets.md
