@@ -6,6 +6,11 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Stich Stich Slip"
 [[menu.main]]
+hasChildren = ""
+name = ""
+url = ""
+weight = ""
+[[menu.main]]
 hasChildren = true
 name = "Homepage"
 url = ""
@@ -74,8 +79,8 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-icon = "ti-facebook"
-url = "#"
+icon = "ti-instagram"
+url = "https://www.instagram.com/stichstichslip/"
 [[params.social]]
 icon = "ti-twitter-alt"
 url = "#"
