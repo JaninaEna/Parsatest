@@ -32,7 +32,7 @@ home = ["HTML", "RSS", "JSON"]
 [params]
 address = ""
 author = "Janina "
-author_image = "/images/originalgrosse-stich-stich-slip.png"
+author_image = ""
 bio = "Creatrice de couture"
 contact_form_action = "#"
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
