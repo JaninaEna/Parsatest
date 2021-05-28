@@ -6,10 +6,6 @@ type: ''
 image: "/images/img_20200515_094551_341.jpg"
 categories: []
 tags: []
-menu:
-  main:
-    name: Test
-    weight: 2
 
 ---
 ![](/images/masonary-post/post-8.jpg "Test image")
